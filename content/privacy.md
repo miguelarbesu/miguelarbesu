@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+date: "2022-02-13 00:00:00+01:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,6 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+I do not not collect any information from you. 
+
+However, Netlify — the platform hosting this site — does. You can check their privacy policy [here](https://www.netlify.com/privacy/)
