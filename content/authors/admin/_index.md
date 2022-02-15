@@ -14,7 +14,7 @@ organizations:
   url: https://www.fmp-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are structural biology and artificial intelligence.
+bio: A chemist turned structural biologist stepping into data science
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a researcher at FMP-Berlin working in structural biology. 
+My name is Miguel. I am a postdoctoral researcher working in structural biology. 
 
-I investigate how very dynamic proteins function by using Nuclear Magnetic Resonance and coding in Python.
+I investigate how very dynamic proteins function, by using Nuclear Magnetic Resonance and coding in Python.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
