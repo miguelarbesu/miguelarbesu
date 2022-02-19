@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Postdoctoral researcher
+    company: FMP-Berlin
+    company_url: 'http://www.fmp-berlin.de'
+    company_logo: 
+    location: Berlin, Germany
+    date_start: '2018-03-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: |
+        Projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        - Liquid-liquid phase separation of human FUS by MAS NMR 
+        - Regulation of *A. thaliana* CC1 by phosphorylation
+
+        Tasks:
+        - Method development
+        - Solid state and solution NMR data acquisition
+        - Data analysis
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: PhD student
+    company: BioNMR group - University of Barcelona
+    company_url: 'http://bionmr.ub.edu'
+    company_logo: 
+    location: Barcelona, Spain
+    date_start: '2013-09-01'
+    date_end: '2018-02-28'
+    description: | 
+        Thesis: *A novel regulatory unit in the N-terminal region of c-src*.
+
+        Tasks:
+        - Protein expression and purification
+        - Solution NMR data acquisition
+        - Data analysis
+    
 
 design:
   columns: '2'
