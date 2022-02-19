@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miguel Arbesú
+title: Miguel Arbesú Andrés
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://www.fmp-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A chemist turned structural biologist stepping into data science
+bio: A chemist turned structural biologist, now stepping into data science
 
 # Interests to show in About widget
 interests:
@@ -72,6 +72,6 @@ highlight_name: true
 
 My name is Miguel. I am a postdoctoral researcher working in structural biology. 
 
-I investigate how very dynamic proteins function, by using Nuclear Magnetic Resonance and coding in Python.
+I use Nuclear Magnetic Resonance and Python code to investigate how very dynamic proteins work.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
