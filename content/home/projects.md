@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Nuclear Magnetic Resonance
+    tag: Nuclear Magnetic Resonance
+  - name: Python  
+    tags: Python   
+  - name: Data visualization
+    tag: Data visualization
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
