@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Heat map for ¹H-¹³C Cross Polarization conditions."
+  caption: "Heat map for $^{1}H$-$^{13}C$ Cross Polarization conditions."
   focal_point: ""
   preview_only: false
 
