@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/miguelarbesu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=es
+  link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/miguelarbesu
