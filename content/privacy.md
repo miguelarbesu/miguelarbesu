@@ -12,6 +12,7 @@ header:
   image: ""
 ---
 
-I do not not collect any information from you. 
+This site does not collect any information from you, use cookies or display advertising.
 
-However, Netlify — the platform hosting this site — does. You can check their privacy policy [here](https://www.netlify.com/privacy/)
+However, Netlify — the platform hosting this web — does log some data without commercial
+purposes. You can check their privacy policy [here](https://www.netlify.com/privacy/).
