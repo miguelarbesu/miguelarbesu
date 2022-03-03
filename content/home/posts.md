@@ -36,3 +36,7 @@ design:
   view: compact
   columns: '2'
 ---
+
+{{% callout note %}}
+See all blog posts [here](./post/).
+{{% /callout %}}
