@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://diposit.ub.edu/dspace/bitstream/2445/149462/1/695095.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

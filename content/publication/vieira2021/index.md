@@ -46,9 +46,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2021.04.22.440577v2.full.pdf'
+url_code: 'https://osf.io/cxkjf/'
+url_dataset: 'https://osf.io/3mka9/'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: "Image by Vieira et al. on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.22.440577v2)"
   focal_point: ""
   preview_only: false
 

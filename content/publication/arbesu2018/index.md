@@ -38,7 +38,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://diposit.ub.edu/dspace/bitstream/2445/122264/11/MAA_PhD_THESIS.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 

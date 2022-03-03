@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fmolb.2018.00039/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image by M. Arbesú. CC BY'
   focal_point: ""
   preview_only: false
 

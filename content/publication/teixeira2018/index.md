@@ -42,8 +42,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986830/pdf/10858_2018_Article_182.pdf'
+url_code: 'https://github.com/Farseer-NMR/FarSeer-NMR'
 url_dataset: ''
 url_poster: ''
 url_project: ''

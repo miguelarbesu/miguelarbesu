@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.researchsquare.com/article/nprot-2923/v1.pdf?c=1631839452000'
 url_code: ''
 url_dataset: ''
 url_poster: ''
