@@ -72,6 +72,6 @@ highlight_name: true
 
 My name is Miguel. I am a postdoctoral researcher working in structural biology. 
 
-I use Nuclear Magnetic Resonance and Python code to investigate how very dynamic proteins work.
+I use Nuclear Magnetic Resonance and Python code to investigate how extremely dynamic proteins work.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
