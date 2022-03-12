@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Nuclear Magnetic Resonance
     tag: Nuclear Magnetic Resonance
-  - name: Python  
-    tags: Python   
+  - name: Python
+    tag: Python
   - name: Data visualization
     tag: Data visualization
 
