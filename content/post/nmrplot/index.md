@@ -156,7 +156,7 @@ Nice modern color maps, fonts, alpha compositing, contour level thickness ar lit
 things that can make the difference between a dull plot and a pleasing figure for your
 presentations and papers.
 
-![Example of a $^{1}H$-$^{15}N$ solution NMR spectrum of model protein SH3 using nmrplot in CLI mode](/assets/images/nmrplot_hn_example.png)
+![Example of a $^{1}H$-$^{15}N$ solution NMR spectrum of model protein SH3 using nmrplot in CLI mode](featured.png)
 *Example of a $^{1}H$-$^{15}N$ solution NMR spectrum of model protein SH3 using nmrplot in CLI mode*
 
 
