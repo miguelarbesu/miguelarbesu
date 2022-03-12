@@ -6,7 +6,7 @@ subtitle: "Visualizing experimental Hartmann-Hahn conditions in MAS NMR with Pyt
 summary: "Visualizing experimental Hartmann-Hahn conditions in MAS NMR with Python"
 authors: [admin]
 tags: [Data visualization, Nuclear Magnetic Resonance, Python]
-categories: []
+categories: [NMR data visualization]
 date: 2021-03-21T12:00:00+01:00
 lastmod: 2022-03-03T16:05:58+01:00
 featured: false

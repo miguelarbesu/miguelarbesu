@@ -6,9 +6,9 @@ subtitle: "Learning how to make a proper Python package"
 summary: "nmrplot is a Python tool for plotting NMR spectra and a chance to learn how to make a proper Python package"
 authors: [admin]
 tags: [Data visualization, Nuclear Magnetic Resonance, Python]
-categories: []
+categories: [NMR data visualization]
 date: 2021-12-12T12:00:00+01:00
-lastmod: 2022-03-03T21:55:37+01:00
+lastmod: 2022-03-12T12:36:00+01:00
 featured: false
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "A $^{1}H-^{15}N$ spectrum example "
+  caption: "A $^{1}H-^{15}N$ spectrum example"
   focal_point: ""
   preview_only: false
 
@@ -25,7 +25,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [nmrplot]
+url_code: 'https://github.com/miguelarbesu/nmrplot'
+url_source: 'https://miguelarbesu.github.io/nmrplot'
+
 ---
 
 ## TL;DR
