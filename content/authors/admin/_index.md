@@ -46,6 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/miguelarbesu
+- icon: mastodon
+  icon_pack: fab
+  link: https://mstdn.social/@miguelarbesu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en
@@ -73,5 +76,8 @@ highlight_name: true
 My name is Miguel. I am a postdoctoral researcher working in structural biology. 
 
 I use Nuclear Magnetic Resonance and Python code to investigate how extremely dynamic proteins work.
+
+<!-- empty link to verify website on mastodon profile-->
+<a rel="me" href="https://mstdn.social/@miguelarbesu"></a>
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
