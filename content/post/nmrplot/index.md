@@ -28,7 +28,7 @@ image:
 projects: [nmrplot]
 url_code: 'https://github.com/miguelarbesu/nmrplot'
 url_source: 'https://miguelarbesu.github.io/nmrplot'
-
+math: true
 ---
 
 ## TL;DR

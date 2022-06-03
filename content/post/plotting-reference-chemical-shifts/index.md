@@ -28,6 +28,7 @@ image:
 url_code: https://github.com/miguelarbesu/nmr_bmrb-chemical-shifts/
 url_project: https://miguelarbesu.github.io/nmr_bmrb-chemical-shifts/
 projects: []
+math: true
 ---
 
 ## TL;DR

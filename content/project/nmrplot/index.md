@@ -36,6 +36,7 @@ url_project: 'https://miguelarbesu.github.io/nmrplot'
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+math: true
 ---
 
 Please visit the [nmrplot blog post]({{< relref "/post/nmrplot" >}}) for an introduction about the project.
