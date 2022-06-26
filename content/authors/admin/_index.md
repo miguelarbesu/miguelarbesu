@@ -6,21 +6,23 @@ title: Miguel Arbesú Andrés
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
-  url: https://www.fmp-berlin.de/
+# TODO: turn on again whit new position
+# organizations:
+# - name: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
+#   url: https://www.fmp-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A chemist turned structural biologist, now stepping into data science
+bio: A chemist turned structural biologist, then data scientist.
 
 # Interests to show in About widget
 interests:
-- Intrinsically disordered proteins
-- Nuclear Magnetic Resonance
+- Protein science
 - Machine learning
+- Drug discovery
+- Nuclear Magnetic Resonance
 
 # Education to show in About widget
 education:
@@ -73,9 +75,11 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a postdoctoral researcher working in structural biology. 
+My name is Miguel. I am a data scientist with background at the intersection between Chemistry, Biology and Physics. 
 
-I use Nuclear Magnetic Resonance and Python code to investigate how extremely dynamic proteins work.
+Nowadays I am interested in AI-driven drug discovery.
+
+Previously, I used Nuclear Magnetic Resonance and wrote Python code to model *extremely* dynamic proteins.
 
 <!-- empty link to verify website on mastodon profile-->
 <a rel="me" href="https://mstdn.social/@miguelarbesu"></a>

@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90% 
+- description: 100% 
   icon: vial
   icon_pack: fas
   name: Chemistry
-- description: 85%
-  icon: dna
-  icon_pack: fas
-  name: Biology
-- description: 80%
-  icon: atom
-  icon_pack: fas
-  name: NMR
-- description: 75%
+- description: 95%
   icon: python
   icon_pack: fab
   name: Python
-- description: 70%
+- description: 90%
+  icon: dna
+  icon_pack: fas
+  name: Biology
+- description: 85%
+  icon: atom
+  icon_pack: fas
+  name: Physics
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistics

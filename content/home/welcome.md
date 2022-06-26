@@ -21,8 +21,5 @@ design:
 
 ---
 
-# Structural biology 
-
-# Data analysis & visualization
-
+# Proteins, Drugs & Data Science
 

@@ -23,21 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral researcher
-    company: FMP-Berlin
+    company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP-Berlin)
     company_url: 'http://www.fmp-berlin.de'
     company_logo: 
     location: Berlin, Germany
     date_start: '2018-03-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |
         Projects:
-        
-        - Liquid-liquid phase separation of human FUS by MAS NMR 
+        - Liquid-liquid phase separation of human FUS by solid state Nuclear Magnetic Resonance 
         - Regulation of *A. thaliana* CC1 by phosphorylation
+        - Structural disorder in enteropathogenic bacterial proteomes.
 
         Tasks:
         - Method development
-        - Solid state and solution NMR data acquisition
+        - Solid state and solution Nuclear Magnetic Resonance data acquisition
         - Data analysis
         
   - title: PhD student
@@ -52,7 +52,7 @@ experience:
 
         Tasks:
         - Protein expression and purification
-        - Solution NMR data acquisition
+        - Solution Nuclear Magnetic Resonance data acquisition
         - Data analysis
     
 
