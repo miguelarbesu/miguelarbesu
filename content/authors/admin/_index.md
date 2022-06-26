@@ -45,21 +45,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:miguelarbesu@gmail.com'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/miguelarbesu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-phd-720404227/
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/miguelarbesu
 - icon: mastodon
   icon_pack: fab
   link: https://mstdn.social/@miguelarbesu
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/miguelarbesu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-720404227/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
