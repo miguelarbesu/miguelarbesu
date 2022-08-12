@@ -15,7 +15,7 @@ role: Data Scientist
 #   url: https://www.fmp-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A chemist turned structural biologist, then data scientist.
+bio: An organic chemist turned structural biologist, then data scientist.
 
 # Interests to show in About widget
 interests:

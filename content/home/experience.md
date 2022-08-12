@@ -22,10 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting researcher
+    company: Max-Delbrück-Centrum für Molekulare Medizin (MDC)
+    company_url: 'http://www.mdc-berlin.de'
+    company_logo: mdc-logo-EN
+    location: Berlin, Germany
+    date_start: '2022-09-01'
+    date_end: '2022-11-30'
+    description: |
+        [Helmholtz Information & Data Science Academy (HIDA)](https://www.helmholtz-hida.de/) grantee at the MDC Bioinformatics unit.
+
+        Projects:
+        -  Geometric deep learning applied to proteins and drugs
+
   - title: Postdoctoral researcher
     company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP-Berlin)
     company_url: 'http://www.fmp-berlin.de'
-    company_logo: 
+    company_logo: Logo_of_Leibniz-FMP_from_2017
     location: Berlin, Germany
     date_start: '2018-03-01'
     date_end: '2022-06-30'
@@ -43,7 +56,7 @@ experience:
   - title: PhD student
     company: BioNMR group - University of Barcelona
     company_url: 'http://bionmr.ub.edu'
-    company_logo: 
+    company_logo: university-of-barcelona-logo-freelogovectors
     location: Barcelona, Spain
     date_start: '2013-09-01'
     date_end: '2018-02-28'
