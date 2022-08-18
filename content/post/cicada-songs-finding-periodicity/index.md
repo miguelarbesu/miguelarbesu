@@ -106,7 +106,7 @@ Finally, the former NMR spectroscopist in me wanted to do another Fourier Transf
 
 ![Power spectral density reveals a 6 Hz component](0-finding-periodicity_20_1.png "Power spectral density reveals a 6 Hz component")
     
-The two modulations commented before peak very close to zero and resolution is not enough to distinguish them. However there is another weaker signal centered around 6 Hz in the PSD plot. This modulation was not evident when analyzing the whole 15 minutes of the integrated signal, but let's zoom in to the seconds.
+The two modulations commented before peak very close to zero and resolution is not enough to distinguish them. However there is another weaker signal centered around 6 Hz in the PSD plot. This modulation was not evident when analyzing the whole 15 minutes of the integrated signal, but let's zoom in the seconds timescale.
 
 ![Zoom in to time evolution of the processed 5 kHz signal intensity](0-finding-periodicity_22_0.png "Zoom in to time evolution of the processed 5 kHz signal intensity")
     
@@ -118,7 +118,7 @@ I have analyzed a 15 minutes audio of a cicada chorus -- i.e. many cicadas singi
 
 In addition, there is a higher frequency modulation of the intensity at 6 Hz that could correspond to the chirping frequency of the individual cicadas. 
 
-These features -- the characteristic 5 and 3 kHz frequencies and the 6 Hz modulation  actually matches an enthomological report from the area. Here are the spectrogram and oscillogram of the song of *Cicada orni* from [Trilar et al. 2020](http://dx.doi.org/10.15298/rusentj.29.1.03):
+These features -- the characteristic 5 and 3 kHz frequencies and the 6 Hz modulation -- actually match an enthomological report from the area. Here are the spectrogram and oscillogram of the song of *Cicada orni* from [Trilar et al. 2020](http://dx.doi.org/10.15298/rusentj.29.1.03):
 
 ![Figures 6 an 7 from Trilar et al. 2020: 6 -spectrogram of the calling song; 7 -oscillogram of the enlarged part (section B of the figure 6) of the calling song](7-Cicada-orni-6-spectrogram-of-the-calling-song-7-oscillogram-of-the-enlarged-part.png "Figures 6 an 7 from Trilar et al. 2020 (top to bottom): spectrogram of the calling song; oscillogram of the enlarged part (section B) of the calling song")
 
