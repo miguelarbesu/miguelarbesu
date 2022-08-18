@@ -19,7 +19,7 @@ image:
   caption: "Venetian lighthouse of Fiskardo, Kefalonia. Credit: Miguel Arbesú"
   focal_point: ""
   preview_only: false
-
+math: true
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -61,7 +61,7 @@ I recorded a ~18 minute audio with my phone from our hotel terrace, in front of 
 
 {{< audio src="2022-08-06_1611.mp3" >}}
 
-For the analysis, I discarded the first 30 seconds while I set up the phone took the next 15 minutes. 
+For the analysis, I discarded the first 30 seconds while I set up the phone and took the next 15 minutes.
 
 ### Results
 
@@ -79,7 +79,7 @@ We see a continuous and broad maximum centered around 5 $\pm$ 1 kHz and a second
 
 There is a faint low frequency band > 1 kHz that suddenly spikes and stretches up to 2 kHz at ~520 seconds: it is an airplane taking of from the nearby airport, at around 10 km. Fortunately, it seems that the main cicada frequency at 5 kHz is not affected by that interference, so the whole audio sample is used analyze the modulation of that main signal.
 
-From the spectrogram array the average maximum frequency is 4921.9 +- 120.4 Hz standard deviations. Now that we identified the position and variability of the main signal, we plot it over the averaged spectrum of the audio sample.
+From the spectrogram array the average maximum frequency is 4921.9 $\pm$ 120.4 Hz standard deviations. Now that we identified the position and variability of the main signal, we plot it over the averaged spectrum of the audio sample.
 
 ![Averaged spectrogram showing spectral range to integrate](0-finding-periodicity_8_0.png "Averaged spectrogram showing spectral range to integrate")
 
@@ -94,7 +94,7 @@ We see how the windowing does a good job at de-noising the trajectory of the int
 
 ![Linear de-trending helps to identify oscillations](0-finding-periodicity_14_0.png "Linear de-trending helps to identify oscillations")
 
-So there it is, the pattern I was curious about! It seems that cicadas go really lod and suddenly quiet every ~ seconds, with some rhythmic variations in between. Let's simply put that in numbers by the distances between maxima.
+So there it is, the pattern I was curious about! It seems that cicadas go really loud and suddenly quiet every ~500 seconds, with some rhythmic variations in between. Let's simply put that in numbers by the distances between maxima.
 
 ![Local maxima show periodicity](0-finding-periodicity_17_0.png "Local maxima show periodicity")
 
@@ -114,7 +114,7 @@ There it is! I think this corresponds to the constant rhythm of the cicada's chi
 
 ## Conclusions
 
-I have analyzed a 15 minutes audio of a cicada chorus -- i.e. many cicadas singing simultaneously -- recorded in southeast Kefalonia. In the spectrogram I find a characteristic **5 kHz main frequency with a weaker 3 kHz side band**. After processing the evolution of the 5 Khz signal intensity over time two low frequency modulations of the intensity appear, one with **short period of ~35 seconds and a longer one**, also larger in amplitude, every **~7 minutes**. Of course these are just approximations since I only used one audio sample -- and for the longer period there is only one complete cycle.
+I have analyzed a 15 minutes audio of a cicada chorus -- i.e. many cicadas singing simultaneously -- recorded in soutwest Kefalonia. In the spectrogram I find a characteristic **5 kHz main frequency with a weaker 3 kHz side band**. After processing the evolution of the 5 Khz signal intensity over time two low frequency modulations of the intensity appear, one with **short period of ~35 seconds and a longer one, also larger in amplitude, every ~7 minutes**. Of course these are just approximations since I only used one audio sample -- and for the longer period there is only one complete cycle.
 
 In addition, there is a higher frequency modulation of the intensity at 6 Hz that could correspond to the chirping frequency of the individual cicadas. 
 
