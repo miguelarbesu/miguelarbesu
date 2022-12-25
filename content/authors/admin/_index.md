@@ -72,11 +72,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a data scientist with background at the intersection between Chemistry, Biology and Physics. 
+My name is Miguel. I am a data scientist with background at the intersection between Chemistry, Biology and Physics. Previously, I used Nuclear Magnetic Resonance and wrote Python code to model *extremely* dynamic proteins.
 
-Nowadays I am interested in AI-driven drug discovery.
-
-Previously, I used Nuclear Magnetic Resonance and wrote Python code to model *extremely* dynamic proteins.
+Nowadays I am interested in AI-driven protein science and drug discovery.
 
 <!-- empty link to verify website on mastodon profile-->
 <a rel="me" href="https://mstdn.social/@miguelarbesu"></a>
