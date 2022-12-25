@@ -33,7 +33,7 @@ experience:
         [Helmholtz Information & Data Science Academy (HIDA)](https://www.helmholtz-hida.de/) grantee at the MDC Bioinformatics unit.
 
         Projects:
-        -  Geometric deep learning applied to proteins and drugs
+        - Protein:drug interaction prediction with geometric deep learning and protein language models.
 
   - title: Postdoctoral researcher
     company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP-Berlin)
@@ -45,7 +45,7 @@ experience:
     description: |
         Projects:
         - Liquid-liquid phase separation of human FUS by solid state Nuclear Magnetic Resonance 
-        - Regulation of *A. thaliana* CC1 by phosphorylation
+        - Regulation of *A. thaliana* salt-stress response by phosphorylation of protein CC1
         - Structural disorder in enteropathogenic bacterial proteomes.
 
         Tasks:
