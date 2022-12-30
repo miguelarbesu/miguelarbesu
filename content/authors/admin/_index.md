@@ -54,6 +54,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-5444-1969
 - icon: mastodon
   icon_pack: fab
   link: https://mstdn.social/@miguelarbesu
