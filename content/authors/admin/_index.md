@@ -6,7 +6,7 @@ title: Miguel Arbesú Andrés
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Data Scientist in Structural Biology
 
 # Organizations/Affiliations to show in About widget
 # TODO: turn on again whit new position
