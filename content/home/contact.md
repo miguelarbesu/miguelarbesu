@@ -24,7 +24,13 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-  
+  email: miguelarbesu@gmail.com
+  address:
+    city: Berlin
+    region: "Berlin"
+    postcode: "10115"
+    country: Germany
+    country_code: DE
 design:
   columns: '2'
 ---
