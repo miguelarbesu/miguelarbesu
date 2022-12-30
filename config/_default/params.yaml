@@ -5,55 +5,39 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ""
-font_size: M
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 
-site_type: Personal
-local_business_type: ""
-org_name: ""
-description: ""
-twitter: ""
-
-# Contact (edit or remove options as required)
-# Moved to contact.md
-
-# email: miguelarbesu@gmail.com
-# phone: +49 888 88888888
-# address:
-#   street: ""
-#   city: Berlin
-#   region: ""
-#   postcode: ""
-#   country: Germany
-#   country_code: DE
-# coordinates:
-#   latitude: '37.4275'
-#   longitude: '-122.1697'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-# contact_links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: DM Me
-  #   link: "https://twitter.com/miguelarbesu"
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Personal website of Miguel Arbesú, PhD'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: false
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 # Footer
 
@@ -68,95 +52,63 @@ footer:
 
 # Localization
 
-date_format: "2 Jan, 2006"
-time_format: "03:04"
-address_format: en-us
+locale:
+  date_format: "2006-02-01"
+  time_format: "03:04"
+  address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-  - python
-  - latex
-  - bash
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: ""
-  content_dir: ""
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: true
-  share_alike: true
-  allow_commercial: false
-  notice: "Original text and media in this site are under {license}, and code
-    samples are licensed under the [MIT license](code-license/)."
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ""
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ""
-    show_count: true
-  commento:
-    url: ""
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ""
-    api_key: ""
-    index_name: ""
-    show_logo: false
-map:
-  provider: ""
-  api_key: ""
-  zoom: 15
-marketing:
-  google_analytics: ""
-  google_tag_manager: ""
-  google_site_verification: ""
-  baidu_site_verification: ""
-  baidu_tongji: ""
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+features: 
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - python
+      - latex
+      - bash
+  math: 
+    enable: true
+  diagram: 
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/miguelarbesu/miguelarbesu'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
+
+ 
