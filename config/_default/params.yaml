@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ""
-font_size: L
+font_size: M
 
 # SEO
 
@@ -19,16 +19,17 @@ description: ""
 twitter: ""
 
 # Contact (edit or remove options as required)
+# Moved to contact.md
 
-email: miguelarbesu@gmail.com
+# email: miguelarbesu@gmail.com
 # phone: +49 888 88888888
-address:
-  street: ""
-  city: Berlin
-  region: ""
-  postcode: ""
-  country: Germany
-  country_code: DE
+# address:
+#   street: ""
+#   city: Berlin
+#   region: ""
+#   postcode: ""
+#   country: Germany
+#   country_code: DE
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
@@ -37,7 +38,7 @@ address:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
+# contact_links:
   # - icon: twitter
   #   icon_pack: fab
   #   name: DM Me
