@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "My tool setup"
-subtitle: "An updated, uncommented list of the software I use on a daily basis"
-summary: "An updated, uncommented list of the software I use on a daily basis"
+subtitle: "An uncommented list of the software I use daily"
+summary: "An uncommented list of the software I use daily"
 authors: [admin]
 tags: [Setup, Coding, Python]
 categories: [Miscelanea]
 date: 2022-12-30T10:56:19+01:00
-lastmod: 2022-12-30T10:56:19+01:00
+lastmod: 2023-01-02T10:56:19+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ projects: []
 
 ## A list in no particular order
 
-last edited: 2022-12-30
+last edited: 2023-01-02
 
 - OS: [Manjaro GNU/Linux](https://manjaro.org/)
 - Desktop environment: [KDE](https://kde.org/)
@@ -40,7 +40,8 @@ last edited: 2022-12-30
 	- Reference manager plugin: [Zotero](zotero.org/)
 - Search engine: [DuckDuckGo](https://duckduckgo.com/), [Google](https://www.google.com/)
 - Email: [GMail](https://www.mail.google.com/)
-- File hosting: [Dropbox](https://www.dropbox.com)
+- System backup: [Timeshift](https://github.com/linuxmint/timeshift) 
+- File hosting & sharing: [Dropbox](https://www.dropbox.com), [rclone](https://rclone.org/)
 - Terminal emulator: [Yakuake](https://apps.kde.org/yakuake/) 
 - Terminal multiplexer: [tmux](https://github.com/tmux/tmux)
 - Version control: [git](https://git-scm.com/)
