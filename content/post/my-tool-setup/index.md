@@ -31,7 +31,7 @@ projects: []
 
 ## A list in no particular order
 
-last edited: 2023-01-02
+last edited: 2023-01-03
 
 - OS: [Manjaro GNU/Linux](https://manjaro.org/)
 - Desktop environment: [KDE](https://kde.org/)
@@ -41,7 +41,8 @@ last edited: 2023-01-02
 - Search engine: [DuckDuckGo](https://duckduckgo.com/), [Google](https://www.google.com/)
 - Email: [GMail](https://www.mail.google.com/)
 - System backup: [Timeshift](https://github.com/linuxmint/timeshift) 
-- File hosting & sharing: [Dropbox](https://www.dropbox.com), [rclone](https://rclone.org/)
+- File hosting, sharing & syncing: [Dropbox](https://www.dropbox.com), [rclone](https://rclone.org/), [Google Drive](https://drive.google.com/drive/)
+- Shell: [Bash](https://www.gnu.org/software/bash/), [zsh](https://www.zsh.org/)
 - Terminal emulator: [Yakuake](https://apps.kde.org/yakuake/) 
 - Terminal multiplexer: [tmux](https://github.com/tmux/tmux)
 - Version control: [git](https://git-scm.com/)
