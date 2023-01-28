@@ -57,9 +57,9 @@ So I decided to record a sample and analyze the data back at home. Now here are 
 
 ### Data
 
-I recorded a ~18 minute audio with my phone from our hotel terrace, in front of a noisy backyard full of cicadas. You can download it from [here](./2022-08-06_1611.mp3). 
+I recorded a ~18 minute audio with my phone from our hotel terrace, in front of a noisy backyard full of cicadas. You can download it from [the repository](https://github.com/miguelarbesu/cicada-songs/blob/main/data/2022-08-06_1611.mp3), but here is a 30 second sample: 
 
-{{< audio src="2022-08-06_1611.mp3" >}}
+{{< audio src="2022-08-06_1611_sample.mp3" >}}
 
 For the analysis, I discarded the first 30 seconds while I set up the phone and took the next 15 minutes.
 
