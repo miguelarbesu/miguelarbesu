@@ -8,7 +8,7 @@ authors: [admin]
 tags: [Setup, Coding, Python]
 categories: [Miscelanea]
 date: 2022-12-30T10:56:19+01:00
-lastmod: 2023-01-02T10:56:19+01:00
+lastmod: 2023-02-17T20:32:01+01:00
 featured: false
 draft: false
 
@@ -31,10 +31,8 @@ projects: []
 
 ## A list in no particular order
 
-last edited: 2023-01-03
-
-- OS: [Manjaro GNU/Linux](https://manjaro.org/)
-- Desktop environment: [KDE](https://kde.org/)
+- OS: [Manjaro GNU/Linux](https://manjaro.org/), [Ubuntu GNU/Linux](https://ubuntu.com/)
+- Desktop environment: [KDE](https://kde.org/), [GNOME](https://www.gnome.org/)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 	- Web annotation: [Memex](https://memex.garden/)
 	- Reference manager plugin: [Zotero](zotero.org/)
@@ -42,22 +40,22 @@ last edited: 2023-01-03
 - Email: [GMail](https://www.mail.google.com/)
 - System backup: [Timeshift](https://github.com/linuxmint/timeshift) 
 - File hosting, sharing & syncing: [Dropbox](https://www.dropbox.com), [rclone](https://rclone.org/), [Google Drive](https://drive.google.com/drive/)
-- Shell: [Bash](https://www.gnu.org/software/bash/), [zsh](https://www.zsh.org/)
-- Terminal emulator: [Yakuake](https://apps.kde.org/yakuake/) 
+- Shell: [Bash](https://www.gnu.org/software/bash/), [zsh](https://www.zsh.org/) 
+  - Shell customization: [Oh-my-zsh](https://ohmyz.sh/), [Powerlevel10](https://github.com/romkatv/powerlevel10k)
+- Terminal emulator: [Yakuake](https://apps.kde.org/yakuake/), [Guake](http://guake-project.org)
 - Terminal multiplexer: [tmux](https://github.com/tmux/tmux)
 - Version control: [git](https://git-scm.com/)
-- Code hosting: [GitHub](github.com/)
+- Code hosting: [GitHub](github.com/), [GitLab](https://about.gitlab.com/)
 - Code editor: [VSCode](https://code.visualstudio.com/)
 	- Python extensions: [Jupyter](https://pypi.org/project/jupyter/), [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-- Python package manager: [conda](https://conda.io/)
-- Python environment manager: [conda](https://conda.io/), [Poetry](https://python-poetry.org/)
+- Python environment manager: [conda](https://conda.io/), [mamba](https://mamba.readthedocs.io/), [Poetry](https://python-poetry.org/)
 - Text editor:[ Kate](https://apps.kde.org/kate/), [Obsidian](https://obsidian.md/)
-- Knowledge management: [Obsidian](https://obsidian.md/), [Google Keep](https://keep.google.com/)
+- Knowledge management: [Obsidian](https://obsidian.md/), [Google Keep](https://keep.google.com/), [Notion](https://www.notion.so/).
 - Task management: [Google Calendar](calendar.google.com/), [Google tasks](https://support.google.com/calendar/answer/106237)
 - Text expander: [Espanso](espanso.org/)
 - Reference manager: [Zotero](zotero.org/)
-- Password manager: [Bitwarden](https://bitwarden.com/)
+- Password manager: [Bitwarden](https://bitwarden.com/), [1password](https://1password.com)
 - Office suite: [LibreOffice](https://www.libreoffice.org/), [Google Docs](https://docs.google.com/)
-- Document viewer: [Okular](https://okular.kde.org/)
+- Document viewer: [Okular](https://okular.kde.org/), [evince](https://wiki.gnome.org/Apps/Evince)
 - Image editor: [GIMP](https://www.gimp.org/)
 - Vector graphics editor: [Inkscape](https://inkscape.org/)
