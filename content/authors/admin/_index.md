@@ -6,7 +6,7 @@ title: Miguel Arbesú Andrés
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist in Structural Biology
+role: Researcher in Bio ∩ AI
 
 # Organizations/Affiliations to show in About widget
 # TODO: turn on again whit new position
@@ -19,10 +19,10 @@ bio: An organic chemist turned structural biologist, then data scientist.
 
 # Interests to show in About widget
 interests:
-- Protein science
-- Machine learning
-- Drug discovery
-- Nuclear Magnetic Resonance
+- Protein Science
+- Drug Discovery
+- Machine Learning
+- Large Language Models
 
 # Education to show in About widget
 education:
@@ -75,7 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a data scientist with background at the intersection between Chemistry, Biology and Physics. Previously, I used Nuclear Magnetic Resonance and wrote Python code to model *extremely* dynamic proteins.
+My name is Miguel. I am a researcher at intersection between Biology and Artificial Intelligence. 
+
+My background is Biophysics: I used to apply Nuclear Magnetic Resonance and other methods to model how *extremely* dynamic proteins work. 
 
 Nowadays I am interested in AI-driven protein science and drug discovery.
 

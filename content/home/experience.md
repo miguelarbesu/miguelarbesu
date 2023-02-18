@@ -22,10 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research engineer
+    company: Instadeep
+    company_url: 'http://www.instadeep.com'
+    company_logo: instadeep_square_blue
+    location: Berlin, Germany
+    date_start: '2023-02-13'
+    date_end: ''
+    # description: |
+
   - title: Visiting researcher
     company: Max-Delbrück-Centrum für Molekulare Medizin (MDC)
     company_url: 'http://www.mdc-berlin.de'
-    company_logo: mdc-logo-EN
+    company_logo: MDC_logo_V1_RGB-blau
     location: Berlin, Germany
     date_start: '2022-09-01'
     date_end: '2022-11-30'
