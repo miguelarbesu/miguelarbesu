@@ -9,10 +9,9 @@ superuser: true
 role: Researcher in Bio ∩ AI
 
 # Organizations/Affiliations to show in About widget
-# TODO: turn on again whit new position
-# organizations:
-# - name: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
-#   url: https://www.fmp-berlin.de/
+organizations:
+- name: Instadeep, Berlin, Germany
+  url: https://www.instadeep.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: An organic chemist turned structural biologist, then data scientist.
@@ -75,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a researcher at intersection between Biology and Artificial Intelligence. 
+My name is Miguel. I am a researcher at the intersection between Biology and Artificial Intelligence. 
 
 My background is Biophysics: I used to apply Nuclear Magnetic Resonance and other methods to model how *extremely* dynamic proteins work. 
 
