@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: "© {year} Me. All work is licensed under {license} unless otherwise stated."
+    notice: "© {year} Me. All work is licensed under {license} unless otherwise stated.\nFavicon by Koson Rattanaphan from [Noun Project](https://thenounproject.com/browse/icons/term/molecule/)"
     license:
       enable: true
       allow_derivatives: true
