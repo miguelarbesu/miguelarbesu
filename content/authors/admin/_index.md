@@ -14,7 +14,7 @@ organizations:
   url: https://www.instadeep.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: An organic chemist turned structural biologist, then data scientist.
+bio: An organic chemist turned computational structural biologist.
 
 # Interests to show in About widget
 interests:
@@ -74,11 +74,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a researcher at the intersection between Biology and Artificial Intelligence. 
+My name is Miguel. I am a researcher working at the intersection of Biology and Artificial Intelligence.
 
-My background is Biophysics: I used to apply Nuclear Magnetic Resonance and other methods to model how *extremely* dynamic proteins work. 
-
-Nowadays I am interested in AI-driven protein science and drug discovery.
+Nowadays I am interested in AI-driven protein science and optimization problems.
 
 <!-- empty link to verify website on mastodon profile-->
 <a rel="me" href="https://mstdn.social/@miguelarbesu"></a>
