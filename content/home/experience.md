@@ -32,13 +32,13 @@ experience:
     # description: |
     
   - title: Research engineer
-      company: InstaDeep.
-      company_url: 'http://www.instadeep.com'
-      company_logo: instadeep_square_blue
-      location: Berlin, Germany
-      date_start: '2023-02-13'
-      date_end: '2024-08-31'
-      # description: |
+    company: InstaDeep.
+    company_url: 'http://www.instadeep.com'
+    company_logo: instadeep_square_blue
+    location: Berlin, Germany
+    date_start: '2023-02-13'
+    date_end: '2024-08-31'
+    # description: |
 
   - title: Visiting researcher
     company: Max-Delbrück-Centrum für Molekulare Medizin (MDC)
