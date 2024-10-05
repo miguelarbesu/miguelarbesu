@@ -30,6 +30,7 @@ experience:
     date_start: '2024-09-01'
     date_end: ''
     # description: |
+    
 - title: Research engineer
     company: InstaDeep.
     company_url: 'http://www.instadeep.com'
