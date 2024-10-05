@@ -25,11 +25,11 @@ publishDate: "2022-02-16"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *BioRxiv*
-# publication_short: In *ICW*
+publication_short: Accepted in Nature Communications biology (February 2024). Find the published version [here](https://doi.org/10.1038/s42003-024-05856-9).
 
 abstract: The translocated intimin receptor (Tir) is a central effector of Attaching and Effacing (A/E) pathogens responsible for worldwide foodborne disease cases. Tir acts as a cell-surface receptor in host cells, rewiring intracellular processes to assist infection by targeting multiple host proteins. We sought to understand the basis for Tir binding diversity in signaling. Here, we establish that Tir is a disordered protein with host-like binding motifs. A trait we find prevalent in several other effectors secreted by A/E bacteria. We disclose that Tir has a disordered C-terminal intracellular tail (C-Tir) with non-random structural preferences at phosphorylation sites, including host-like tyrosine-based motifs, with versatile lipid- and SH2 domain binding capability pre-phosphorylation. We show that multi-site tyrosine phosphorylation enables C-Tir to engage SH2 domains in a multivalent manner, consistent with Tir’s scaffold/hub role for host proteins. Last, we uncover Tir’s ability to dimerizes via its partially disordered N-terminal intracellular domain. Collectively, our findings provide an updated picture of Tir’s intracellular side, highlighting its ability to mimic host disordered membrane receptors’ versatility as a molecular strategy for host evasion.
 
