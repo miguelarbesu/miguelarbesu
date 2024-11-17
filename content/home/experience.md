@@ -29,7 +29,8 @@ experience:
     location: Berlin, Germany
     date_start: '2024-09-01'
     date_end: ''
-    # description: |
+    description: |
+        Develop and apply state-of-the-art methods in protein engineering and other optimization problems.
     
   - title: Research engineer
     company: InstaDeep.
@@ -62,8 +63,8 @@ experience:
     date_end: '2022-06-30'
     description: |
         Projects:
-        - Liquid-liquid phase separation of human FUS by solid state Nuclear Magnetic Resonance 
-        - Regulation of *A. thaliana* salt-stress response by phosphorylation of protein CC1
+        - Liquid-liquid phase separation of human FUS by solid state Nuclear Magnetic Resonance .
+        - Regulation of plant salt-stress response by phosphorylation of protein CC1.
         - Structural disorder in enteropathogenic bacterial proteomes.
 
         Tasks:
@@ -82,9 +83,9 @@ experience:
         Thesis: *A novel regulatory unit in the N-terminal region of c-src*.
 
         Tasks:
-        - Protein expression and purification
-        - Solution Nuclear Magnetic Resonance data acquisition
-        - Data analysis
+        - Protein expression and purification.
+        - Solution Nuclear Magnetic Resonance data acquisition.
+        - Data analysis.
     
 
 design:
