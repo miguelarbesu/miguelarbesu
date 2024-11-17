@@ -20,6 +20,3 @@ design:
     text_color_light: true
 
 ---
-
-# Proteins, Drugs & Data Science
-
