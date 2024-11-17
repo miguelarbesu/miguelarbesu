@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-My name is Miguel. I am a researcher working at the intersection of Biology and Artificial Intelligence.
+My name is Miguel. I am a researcher working at the intersection between Biology and Artificial Intelligence.
 
 Nowadays I am interested in AI-driven protein science and optimization problems.
 
