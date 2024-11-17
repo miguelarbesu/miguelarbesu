@@ -14,8 +14,11 @@ build:
 run:
 	docker run --rm -it --name hugo-container $(IMAGE_NAME) /bin/sh
 
-# Rule to serve the Hugo site
+# Rule to serve the Hugo site with live changes
 .PHONY: serve
 serve:
-	docker run --rm -p 1313:1313 --name hugo-container $(IMAGE_NAME) hugo serve --bind 0.0.0.0 --baseURL http://localhost:1313
-    
+	docker run --rm -p 1313:1313 --name hugo-container \
+	-v $(PWD):/src \
+	-w /src \
+	$(IMAGE_NAME) \
+	hugo serve --bind 0.0.0.0 --baseURL http://localhost:1313
