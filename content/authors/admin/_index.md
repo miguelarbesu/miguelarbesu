@@ -18,10 +18,9 @@ bio: An organic chemist turned computational structural biologist.
 
 # Interests to show in About widget
 interests:
-- Protein Science
-- Drug Discovery
-- Machine Learning
+- Protein Engineering
 - Large Language Models
+- Optimization
 
 # Education to show in About widget
 education:
