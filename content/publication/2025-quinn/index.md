@@ -25,7 +25,7 @@ publishDate: "2025-10-01"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Arxiv*. Accepted in the NeurIPS 2025 [*AI for Science*](https://ai4sciencecommunity.github.io/neurips25.html) and [*Machine Learning and the Physical Sciences*](https://ml4physicalsciences.github.io/2025/) workshops.
+publication: In *Arxiv*. Accepted in the NeurIPS 2025 [*AI for Science*](https://ai4sciencecommunity.github.io/neurips25.html) and [*Machine Learning and the Physical Sciences*](https://ml4physicalsciences.github.io/2025/) workshops
 # publication_short: 
 
 abstract: While deep learning has revolutionized the prediction of rigid protein structures, modelling the conformational ensembles of Intrinsically Disordered Proteins (IDPs) remains a key frontier. Current AI paradigms present a trade-off. Protein Language Models (PLMs) capture evolutionary statistics but lack explicit physical grounding, while generative models trained to model full ensembles are computationally expensive. In this work we critically assess these limits and propose a path forward. We introduce GeoGraph, a simulation-informed surrogate trained to predict ensemble-averaged statistics of residue-residue contact-map topology directly from sequence. By featurizing coarse-grained molecular dynamics simulations into residue- and sequence-level graph descriptors, we create a robust and information-rich learning target. Our evaluation demonstrates that this approach yields representations that are more predictive of key biophysical properties than existing methods. 

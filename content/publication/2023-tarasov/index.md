@@ -30,7 +30,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *BioRxiv*
-publication_short: Accepted in *New Frontiers of AI for Drug Discovery and Development* workshop, *NeurIPS 2023*.
+publication_short: Accepted in the NeurIPS 2023 *New Frontiers of AI for Drug Discovery and Development* workshop
 
 abstract: Offline Reinforcement Learning (RL) offers a compelling avenue for solving RL problems without the need for interactions with an environment, which may be expensive or unsafe. While online RL methods have found success in various domains, such as de novo Structure-Based Drug Discovery (SBDD), they struggle when it comes to optimizing essential properties derived from protein-ligand docking. The high computational cost associated with the docking process makes it impractical for online RL, which typically requires hundreds of thousands of interactions during learning. In this study, we propose the application of offline RL to address the bottleneck posed by the docking process, leveraging RL’s capability to optimize non-differentiable properties. Our preliminary investigation focuses on using offline RL to conditionally generate drugs with improved docking and chemical properties.
 
