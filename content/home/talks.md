@@ -8,16 +8,16 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
-title: 'Recent & Upcoming Talks'
+title: 'Upcoming & Past Talks'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""

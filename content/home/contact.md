@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 80
 
 title: Contact
 subtitle:
@@ -22,7 +22,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: miguelarbesu@gmail.com
@@ -31,7 +31,7 @@ content:
     street: 
     city: Berlin
     region: Berlin
-    postcode: '10115'
+    postcode: "10115"
     country: Germany
     country_code: DE
   coordinates:
