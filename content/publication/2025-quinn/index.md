@@ -12,7 +12,7 @@ authors:
 - admin
 - Oliver Bent
 
-date: "2026-01-03"
+date: "2025-10-01"
 doi: "https://doi.org/10.48550/arXiv.2510.00774"
 
 # Schedule page publish date (NOT publication's date).
