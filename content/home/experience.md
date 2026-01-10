@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior applied research scientist
-    company: InstaDeep.
+    company: InstaDeep Ltd.
     company_url: 'http://www.instadeep.com'
     company_logo: instadeep_square_blue
     location: Berlin, Germany
@@ -33,7 +33,7 @@ experience:
         Develop and apply state-of-the-art methods in protein engineering and other optimization problems.
     
   - title: Research engineer
-    company: InstaDeep.
+    company: InstaDeep Ltd.
     company_url: 'http://www.instadeep.com'
     company_logo: instadeep_square_blue
     location: Berlin, Germany

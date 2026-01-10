@@ -10,17 +10,17 @@ role: Researcher in Bio ∩ AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Instadeep, Berlin, Germany
+- name: InstaDeep Ltd., Berlin, Germany
   url: https://www.instadeep.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: An organic chemist turned computational structural biologist.
+bio: A chemist turned computational biologist.
 
 # Interests to show in About widget
 interests:
 - Protein Engineering
-- Large Language Models
 - Optimization
+- Immunology
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
   - course: MSc in Organic Chemistry
     institution: University of Barcelona, Spain
     year: 2013
-  - course: BSc+MSc in Chemistry
+  - course: BSc, MSc in Chemistry
     institution: University of Oviedo, Spain
     year: 2012
 
@@ -75,7 +75,7 @@ highlight_name: true
 
 My name is Miguel. I am a researcher working at the intersection between Biology and Artificial Intelligence.
 
-Nowadays I am interested in AI-driven protein science and optimization problems.
+Nowadays I am interested in AI-powered protein engineering and optimization problems. I specialize in designing flexible proteins that challenge structure-based modeling.
 
 <!-- empty link to verify website on mastodon profile-->
 <a rel="me" href="https://mstdn.social/@miguelarbesu"></a>
